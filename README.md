@@ -52,6 +52,5 @@ I'm Sohaib Arbi Bakcha
 
 <br/>
 <br/>
-
-![image](https://user-images.githubusercontent.com/51241996/147344336-8993bc73-677f-4423-87ab-412108e0c3ab.png)
+![wrapped_SohaibArbiBakcha](https://user-images.githubusercontent.com/51241996/147344592-1a28f7c9-5124-4144-a943-0b82a4184877.png)
 
