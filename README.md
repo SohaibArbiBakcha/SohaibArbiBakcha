@@ -8,7 +8,7 @@ I'm Sohaib Arbi Bakcha
 - 🔭 I’m currently Freelancer 
 - 👨‍💻 All of my public projects are available on [ My Github Repositories](https://github.com/SohaibArbiBakcha?tab=repositories)
 - 📫 How to reach me [Instagram](https://www.instagram.com/sohaib.arbi/) Or [Telegram](https://t.me/SpyECho)
-- 🌐 my portfolio [click here](https://www.sohaibportfolio.gq) 
+- 🌐 my portfolio [click here](https://sohaibbakcha.netlify.app/) 
 - ⚡ Fun fact I like vediogames , anime and DC tv show
 
 ## 🧰 Languages and Tools:
