@@ -47,4 +47,3 @@ I'm Sohaib Arbi Bakcha
 
 <br/>
 <br/>
-<img src="https://user-images.githubusercontent.com/51241996/147344592-1a28f7c9-5124-4144-a943-0b82a4184877.png"/>
