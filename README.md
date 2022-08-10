@@ -33,12 +33,13 @@ I'm Sohaib Arbi Bakcha
 </p>
 
 ## 📊 My Github Stats
-
+<p align="center">
   <br/>
     <a href="">
-    <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohaibArbiBakcha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Sohaib bakcha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohaibArbiBakcha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-    
+ </p>
+   
 
 
 <br/>
