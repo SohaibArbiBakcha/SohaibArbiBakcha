@@ -39,12 +39,11 @@ I'm Sohaib Arbi Bakcha
     <img alt="Sohaib bakcha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohaibArbiBakcha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
  </p>
-   
 
+## 🏆 **GITHUB TROPHY**
 
-<br/>
-<br/>
+![](https://github-profile-trophy.vercel.app/?username=SohaibArbiBakcha&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+<p align="center">
+<a href="http://www.github.com/SohaibArbiBakcha"><img src="https://activity-graph.herokuapp.com/graph?username=SohaibArbiBakcha&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-<br/>
-<br/>
+</p>
