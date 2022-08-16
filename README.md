@@ -41,10 +41,10 @@ I'm Sohaib Arbi Bakcha
  </p>
 
 ## 🏆 **GITHUB TROPHY**
-<p align="center">
+<div align="center">
 ![](https://github-profile-trophy.vercel.app/?username=SohaibArbiBakcha&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
-</p>
+</div>
 
 <a href="http://www.github.com/SohaibArbiBakcha"><img src="https://activity-graph.herokuapp.com/graph?username=SohaibArbiBakcha&bg_color=0D1117&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
