@@ -25,14 +25,14 @@ I'm Sohaib Arbi Bakcha
     <a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
 </p>
 
-
+## 📊 My Github Stats
 <p align="center">
     <a>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SohaibArbiBakcha&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 My Github Stats
+
 <p align="center">
   <br/>
     <a href="">
@@ -43,7 +43,7 @@ I'm Sohaib Arbi Bakcha
 
 </p>
 
-## 🏆 **GITHUB TROPHY**
+## 🏆 GITHUB TROPHY
 
 ![](https://github-profile-trophy.vercel.app/?username=SohaibArbiBakcha&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
