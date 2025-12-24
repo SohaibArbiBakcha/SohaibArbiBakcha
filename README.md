@@ -19,7 +19,6 @@
 
 - 💼 **Full Stack Developer** with expertise in MERN Stack
 - 🏢 **ERP Manager & Developer** specializing in **Odoo** and **Sage**
-- 💼 Experience at **TOUMAI**, **SEBN-MA**, **ORMVAT**, and **ALGO**
 - 🤖 **IoT Enthusiast** - Built facial recognition access control systems
 - 🗺️ **GPS & Tracking Solutions** - Developing with Traccar and custom applications
 - ⚡ **Automation Expert** - PowerShell scripting for business process automation
