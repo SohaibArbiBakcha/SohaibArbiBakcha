@@ -88,6 +88,16 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Sohaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohaibArbiBakcha&theme=high-contrast&hide_border=true&bg_color=0D1117&color=e05397&line=e05397&point=ffffff&area=true&area_color=e05397)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
